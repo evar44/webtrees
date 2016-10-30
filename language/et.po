@@ -6537,7 +6537,7 @@ msgstr "Prantsuse Lõunaalad"
 #: app/Module/FrequentlyAskedQuestionsModule.php:363
 #: app/Module/FrequentlyAskedQuestionsModule.php:405
 msgid "Frequently asked questions"
-msgstr "Korduma kippuvad küsimused"
+msgstr "Uudite valik"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:169
